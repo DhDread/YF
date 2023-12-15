@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applique Printer", "Applique Printer\Applique Printer.csproj", "{B3AAB8C3-2D4A-462E-93A1-9E2913EA28D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3AAB8C3-2D4A-462E-93A1-9E2913EA28D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3AAB8C3-2D4A-462E-93A1-9E2913EA28D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3AAB8C3-2D4A-462E-93A1-9E2913EA28D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3AAB8C3-2D4A-462E-93A1-9E2913EA28D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E86BBAB-BAE7-486D-858E-20B047393F81}
+	EndGlobalSection
+EndGlobal

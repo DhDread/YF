@@ -1,0 +1,16 @@
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\Console_Sender.exe
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\Console_Sender.deps.json
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\Console_Sender.runtimeconfig.json
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\Console_Sender.runtimeconfig.dev.json
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\Console_Sender.dll
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\ref\Console_Sender.dll
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\bin\Debug\net5.0\Console_Sender.pdb
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.csproj.AssemblyReference.cache
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.AssemblyInfoInputs.cache
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.AssemblyInfo.cs
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.csproj.CoreCompileInputs.cache
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.dll
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\ref\Console_Sender.dll
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.pdb
+C:\Users\udrid002\source\repos\Console_Sender\Console_Sender\obj\Debug\net5.0\Console_Sender.genruntimeconfig.cache

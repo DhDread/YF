@@ -1,0 +1,10 @@
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\bin\Debug\Applique Printer.exe.config
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\bin\Debug\Applique Printer.exe
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\bin\Debug\Applique Printer.pdb
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique Printer.csproj.AssemblyReference.cache
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique_Printer.Properties.Resources.resources
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique Printer.csproj.GenerateResource.cache
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique Printer.csproj.CoreCompileInputs.cache
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique Printer.exe
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique Printer.pdb
+C:\Users\udrid002\source\repos\Applique Printer\Applique Printer\obj\Debug\Applique_Printer.App_Printer.resources

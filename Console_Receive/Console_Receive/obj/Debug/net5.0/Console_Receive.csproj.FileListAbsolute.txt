@@ -1,0 +1,16 @@
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\Console_Receive.exe
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\Console_Receive.deps.json
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\Console_Receive.runtimeconfig.json
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\Console_Receive.runtimeconfig.dev.json
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\Console_Receive.dll
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\ref\Console_Receive.dll
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\bin\Debug\net5.0\Console_Receive.pdb
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.csproj.AssemblyReference.cache
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.AssemblyInfoInputs.cache
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.AssemblyInfo.cs
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.csproj.CoreCompileInputs.cache
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.dll
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\ref\Console_Receive.dll
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.pdb
+C:\Users\udrid002\source\repos\Console_Receive\Console_Receive\obj\Debug\net5.0\Console_Receive.genruntimeconfig.cache

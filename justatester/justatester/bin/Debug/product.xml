@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Applique_Print>
+  <IP_Address>
+    <Printer_L>10.17.98.27</Printer_L>
+    <Printer_R>10.17.98.27</Printer_R>
+  </IP_Address>
+  <Applique_A>
+    <PNL>M0100502-TX7</PNL>
+    <PNR>M0100501-TX7</PNR>
+  </Applique_A>
+  <Applique_B>
+    <PNL>M0100504-TX7</PNL>
+    <PNR>M0100503-TX7</PNR>
+  </Applique_B>
+  <Applique_C>
+    <PNL>M0100506-TX7</PNL>
+    <PNR>M0100505-TX7</PNR>
+  </Applique_C>
+</Applique_Print>
