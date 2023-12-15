@@ -1,0 +1,16 @@
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\bin\Release\netcoreapp3.1\Rack_Slot_Printer.exe
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\bin\Release\netcoreapp3.1\Rack_Slot_Printer.deps.json
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\bin\Release\netcoreapp3.1\Rack_Slot_Printer.runtimeconfig.json
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\bin\Release\netcoreapp3.1\Rack_Slot_Printer.runtimeconfig.dev.json
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\bin\Release\netcoreapp3.1\Rack_Slot_Printer.dll
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\bin\Release\netcoreapp3.1\Rack_Slot_Printer.pdb
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.csproj.AssemblyReference.cache
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.Form1.resources
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.csproj.GenerateResource.cache
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.AssemblyInfoInputs.cache
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.AssemblyInfo.cs
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.csproj.CoreCompileInputs.cache
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.dll
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.pdb
+C:\Users\udrid002\source\repos\Rack_Slot_Printer\Rack_Slot_Printer\obj\Release\netcoreapp3.1\Rack_Slot_Printer.genruntimeconfig.cache

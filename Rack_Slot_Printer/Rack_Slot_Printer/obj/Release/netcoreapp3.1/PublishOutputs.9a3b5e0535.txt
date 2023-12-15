@@ -1,0 +1,5 @@
+S:\IT\temp\RackSlotPrinter\Rack_Slot_Printer.exe
+S:\IT\temp\RackSlotPrinter\Rack_Slot_Printer.dll
+S:\IT\temp\RackSlotPrinter\Rack_Slot_Printer.deps.json
+S:\IT\temp\RackSlotPrinter\Rack_Slot_Printer.runtimeconfig.json
+S:\IT\temp\RackSlotPrinter\Rack_Slot_Printer.pdb

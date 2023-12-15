@@ -1,0 +1,16 @@
+﻿<qxtendWorkbookConfig>
+  <qxtendInstance>
+    <tomcatHost>localhost</tomcatHost>
+    <tomcatPort>8080</tomcatPort>
+    <qxtendWebappName>qxi</qxtendWebappName>
+    <qxiReceiver>QADERP</qxiReceiver>
+    <queryReceiver>QADQXO</queryReceiver>
+    <qxoSourceApplication>QADERP</qxoSourceApplication>
+    <targetDomain>Domain1</targetDomain>
+    <targetEntity>1000</targetEntity>
+    <useSSL>false</useSSL>
+    <requestTimeout>120</requestTimeout>
+    <mnemonicsRaw>true</mnemonicsRaw>
+    <encodePasswords>false</encodePasswords>
+  </qxtendInstance>
+</qxtendWorkbookConfig>
