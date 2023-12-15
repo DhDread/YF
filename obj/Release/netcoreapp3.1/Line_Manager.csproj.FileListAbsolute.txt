@@ -1,0 +1,15 @@
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Base - Copy.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Base_Form.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.LHF.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Login_Screen.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Mack_LHF.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.LHR.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Mack_RHF.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Mack_RHR.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Popup.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.Properties.Resources.resources
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.csproj.GenerateResource.cache
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.AssemblyInfoInputs.cache
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.AssemblyInfo.cs
+C:\Users\udrid002\source\repos\Line_Manager\Line_Manager\obj\Release\netcoreapp3.1\Line_Manager.csproj.CoreCompileInputs.cache
